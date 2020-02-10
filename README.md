@@ -11,8 +11,10 @@ https://chev.me/arucogen/
 
 Requirements:
 
-1.) Python2 or above
-2.) Jupyter Notebook
-3.) OpenCV library: use 'pip install opencv-python' to install this library on linux based systems
-    To use the aruco module use 'pip install opencv-contrib-python'
-    You may use any other package manager such as anaconda in place of pip
+>  Python2 or above
+
+>  Jupyter Notebook
+
+>  OpenCV library: use 'pip install opencv-python' to install this library on linux based systems
+   To use the aruco module use 'pip install opencv-contrib-python'
+   You may use any other package manager such as anaconda in place of pip
