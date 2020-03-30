@@ -15,6 +15,12 @@ Requirements:
 
 2.)  Jupyter Notebook
 
-3.)  OpenCV library: use 'pip install opencv-python' to install this library on linux based systems
-   To use the aruco module use 'pip install opencv-contrib-python'
-   You may use any other package manager such as anaconda in place of pip
+3.)  OpenCV library: use
+
+   > pip install opencv-python 
+  
+   to install this library on linux based systems. To use the aruco module use:
+   
+   > pip install opencv-contrib-python
+   
+   You may use any other package manager such as anaconda in place of pip.
