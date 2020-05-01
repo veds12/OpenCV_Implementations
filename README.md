@@ -1,4 +1,4 @@
-# Detection-Of-Aruco-Markers-using-OpenCV-Python-
+# Detection Of Aruco Markers using OpenCV in Python
 This is a simple program to detect aruco markers in images as well as live videos implemented using the aruco module of OpenCV. The python documentation of the aruco module of OpenCV is a bit difficult to find and this repository contains most of the main functions required to detect aruco markers along with decent explaination. 
 
 I was new to OpenCV when I started implementing this program and so initially spent some time familiarising myself to the basic image and video processing techniques using OpenCV. A notebook containing the codes I tested while doing this is also present in this repository
