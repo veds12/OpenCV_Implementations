@@ -5,4 +5,5 @@ Small Scale implementations made possible using the computer vision library OpeC
 ## Implementations :
 
 - [x] Detection of Aruco Markers
-- [ ] Lane Detection
+- [ ] Lane Detectione
+- [ ] Detecting and Annotating chess pieces from a birds-eye view 
